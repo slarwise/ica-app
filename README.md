@@ -8,7 +8,8 @@ long time though.
 
 - Add items to shopping list. I want to be able to have pre-configured recipes
   that can be added with one click. It's possible to do this with ICA's own
-  recipes.
+  recipes already in the app. I want to be able to do it with any set of
+  ingredients.
 
 ## Usage
 
