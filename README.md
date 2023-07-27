@@ -9,3 +9,8 @@ long time though.
 - Add items to shopping list. I want to be able to have pre-configured recipes
   that can be added with one click. It's possible to do this with ICA's own
   recipes.
+
+## Usage
+
+Set the environment variables `PERSONAL_NUMBER` and `ICA_PASSWORD`. Then run
+`node ./main.js`.
